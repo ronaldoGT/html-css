@@ -1,9 +1,9 @@
 @charset "UTF-8";
 
-/* Aparelhor deitado (landscape)*/
+/* Aparelho deitado (landscape)*/
 
 body {
     background-color: orange;
     background-image: url(../imagens/portrait.jpg);
     background-position: left bottom;
-}
+} 
